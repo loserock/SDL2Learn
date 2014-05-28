@@ -14,7 +14,7 @@ indent_mode=2
 
 [project]
 name=SDL2 learning project
-base_path=/data/work/cpp_prg/sdl2_learn
+base_path=/data/work/cpp_prg/SDL2Learn
 description=Geany project in c++, to learn SDL2 libary programing...
 file_patterns=*.cpp;*.h;*.hpp;*.c;
 
@@ -23,19 +23,13 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=1396;C++;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Fmain.cpp;0;4
-FILE_NAME_1=813;C;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Fmain.h;0;4
-FILE_NAME_2=1025;C;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Fstdafx.h;0;4
-FILE_NAME_3=4257;C;0;EUTF-8;0;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Finclude%2FSDL2%2Fbegin_code.h;0;2
-FILE_NAME_4=49;C;0;EUTF-8;2;1;0;%2Fusr%2Finclude%2Ftime.h;0;3
-FILE_NAME_5=4928;C;0;EUTF-8;0;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Finclude%2FSDL2%2FSDL_assert.h;0;4
-FILE_NAME_6=3484;C;0;EUTF-8;0;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Finclude%2FSDL2%2FSDL.h;0;2
-FILE_NAME_7=1209;C;0;EUTF-8;0;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Finclude%2FSDL2%2FSDL_error.h;0;2
-FILE_NAME_8=4030;C;0;EUTF-8;0;1;0;%2Fdata%2Fwork%2Fcpp_prg%2Fsdl2_learn%2Finclude%2FSDL2%2FSDL_video.h;0;4
+current_page=1
+FILE_NAME_0=525;C;0;EUTF-8;2;1;0;%2Fusr%2Finclude%2Ftime.h;0;3
+FILE_NAME_1=816;C++;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Fmain.cpp;0;4
+FILE_NAME_2=0;C;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Fmain.h;0;4
 
 [VTE]
-last_dir=/data/work/cpp_prg/sdl2_learn
+last_dir=/data/work/cpp_prg/SDL2Learn
 
 [gproject]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;
