@@ -34,12 +34,12 @@ int main(int argc, char **argv)
 		
 		SDL_Window *window;
 		window = SDL_CreateWindow(
-				"SDL2 test window",                  // window title
-				SDL_WINDOWPOS_UNDEFINED,           // initial x position
-				SDL_WINDOWPOS_UNDEFINED,           // initial y position
-				640,                               // width, in pixels
-				480,                               // height, in pixels
-				SDL_WINDOW_OPENGL | SDL_WINDOW_BORDERLESS                  // flags - see below
+				"SDL2 test window",                  		// window title
+				SDL_WINDOWPOS_UNDEFINED,           			// initial x position
+				SDL_WINDOWPOS_UNDEFINED,           			// initial y position
+				640,                               			// width, in pixels
+				480,                               			// height, in pixels
+				SDL_WINDOW_OPENGL | SDL_WINDOW_BORDERLESS	// flags
 			);
 		CHECKSDLRETURNERROR(window)
 		
