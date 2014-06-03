@@ -25,8 +25,9 @@ long_line_column=72
 [files]
 current_page=1
 FILE_NAME_0=525;C;0;EUTF-8;2;1;0;%2Fusr%2Finclude%2Ftime.h;0;3
-FILE_NAME_1=816;C++;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Fmain.cpp;0;4
-FILE_NAME_2=0;C;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Fmain.h;0;4
+FILE_NAME_1=1496;C++;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Fmain.cpp;0;4
+FILE_NAME_2=2843;C;0;EUTF-8;0;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Finclude%2FSDL2%2FSDL_video.h;0;4
+FILE_NAME_3=0;C;0;EUTF-8;1;1;0;%2Fdata%2Fwork%2Fcpp_prg%2FSDL2Learn%2Fmain.h;0;4
 
 [VTE]
 last_dir=/data/work/cpp_prg/SDL2Learn
